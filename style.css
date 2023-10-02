@@ -1,0 +1,15 @@
+body{
+    background-color: #00aef3;
+    font-family: 'Lucida Sans', sans-serif;
+}
+form{
+    margin-top: 180px;
+}
+form h1{
+    color:#fff;
+}
+form textarea{
+    resize:none;
+}
+
+
