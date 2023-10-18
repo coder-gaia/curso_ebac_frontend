@@ -1,0 +1,11 @@
+@use 'variables';
+
+body{
+    background-color: variables.$background-color;
+}
+header{
+    background-color:variables.$header;
+}
+.container h3{
+    color:variables.$color-text;
+}
