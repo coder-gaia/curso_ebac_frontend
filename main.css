@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.products {
+  max-width: 640px;
+  width: 100%;
+  margin: 56px auto;
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+  grid-column-gap: 1%;
+}
+.products--img {
+  width: 100%;
+}
+.products--name {
+  font-size: 1.2em;
+  margin: 8px 0;
+}
+.products--description {
+  color: grey;
+}
+.products__trend {
+  border: 2px solid gold;
+  padding: 8px;
+  background-color: #ffff42;
+}
+
+/*# sourceMappingURL=main.css.map */
